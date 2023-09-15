@@ -1,4 +1,4 @@
-# Publish your Obsidian Notes
+# This is a sample documentation
 
 (MkDocs template)
 
@@ -9,7 +9,7 @@ This template gives you an easy (and automated) way to publish your Obsidian not
 With this template, you get these **out-of-the-box**:
 
 - an awesome website based on Material theme, complete with a search bar (Checkout this template repo published [here](https://jobindjohn.github.io/obsidian-publish-mkdocs/))
-![](2021-11-22-22-49-26.png)
+![[test.png]]
 - get the Obsidian/Roam style `[[wikilinks]]` from your vault in your published notes
 - Toggle between light and dark mode
 
