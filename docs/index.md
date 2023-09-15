@@ -1,6 +1,6 @@
-# Obsidian Notes
+# This is a sample documentation site
 
-Publish your public notes with MkDocs
+Welcome to documentation site
 
 ## Hello World!
 
